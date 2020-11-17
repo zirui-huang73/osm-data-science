@@ -254,9 +254,9 @@ scores of prediction on each revision
 * [Chinese Restaurants](https://www.kaggle.com/yelp-dataset/yelp-dataset) - Used yelp_academic_dataset_business.json & yelp_academic_dataset_review.json to get information of business units and customers reviews on Yelp.com
 
 ## Authors
+* **Zirui Huang** - *ziruih@sfu.ca* (Airbnb)
+* **Xu Zhicheng (Max)** - *maxx@sfu.ca* (Tim Hortons)
+* **Rong Li** - *rong_li_2@sfu.ca* (Restaurant)
 
-* **Xu Zhicheng (Max)** - *maxx@sfu.ca* - *301297338* 
-* **Rong Li** - *rong_li_2@sfu.ca* - *301308325* 
-* **Zirui Huang** - *ziruih@sfu.ca* - *301307482* 
 
 
